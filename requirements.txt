@@ -1,0 +1,6 @@
+Flask
+faiss-cpu
+numpy
+sentence-transformers
+pypdf
+gunicorn
